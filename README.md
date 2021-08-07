@@ -7,7 +7,7 @@ A typical stress-strain curve:
 
 Source: Morton, W.E., Hearle, J.W.S., 2008. Physical Properties of Textile Fibres, 4th ed. Woodhead Publishing, Boca Raton, Fla.
 
-The package is uploaded at https://github.com/SustechZQ/tensile.
+The package (developed using Fortran language) is uploaded at https://github.com/SustechZQ/tensile.
 
 Detailed instruction is provided (currently in Chinese only, we will provide English soon, or contact us).
 
