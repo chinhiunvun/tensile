@@ -1,5 +1,5 @@
 # tensile
-Based on a typical stress-strain curve of fibre or fibre-like material (e.g., thread, yarn, and plant root), this package automatically obtain eight mechanical properties of the material. The eight mechanical properies include: yield strain, yield stress, break strain, tensile strength, Young’s modulus, plastic modulus, plastic strain, and toughness (area below the stress-strain curve, unit: J/m3).
+Based on a typical stress-strain curve of fibre or fibre-like material (e.g., thread, yarn, and plant root), this package automatically obtains eight mechanical properties of the material. The eight mechanical properties include yield strain, yield stress, break strain, tensile strength, Young’s modulus, plastic modulus, plastic strain, and toughness (area below the stress-strain curve, unit: J/m3).
 
 A typical stress-strain curve:
 
@@ -7,11 +7,4 @@ A typical stress-strain curve:
 
 Source: Morton, W.E., Hearle, J.W.S., 2008. Physical Properties of Textile Fibres, 4th ed. Woodhead Publishing, Boca Raton, Fla.
 
-The package (developed using Fortran language) is uploaded at https://github.com/SustechZQ/tensile.
-
-Detailed instruction is provided (currently in Chinese only, we will provide English soon, or contact us).
-
-The package is maintained by Qiang ZHANG and Xun Wen CHEN, SUSTech.
-
-If you use this package, please contact us for proper citation. 
-
+If you want to use the package, please contact us via xchenat at connect.ust.hk 
