@@ -8,6 +8,6 @@ A typical stress-strain curve:
 Source: Morton, W.E., Hearle, J.W.S., 2008. Physical Properties of Textile Fibres, 4th ed. Woodhead Publishing, Boca Raton, Fla.
 
 This package was developed and used in our published work to obtain eight biomechanical properties of individual grass roots:
-Chen XW, Kamchoom V, Wu JQ, Sun GD, Zhang Q, Li HS, Wong MH, Li H, Wang J-J (2023) Potentials of mycorrhizal fungi in altering eight biomechanical properties of plant roots. Accepted on 20 Sept. 2023. Land Degradation & Development
+Chen XW, Kamchoom V, Wu JQ, Sun GD, Zhang Q, Li HS, Wong MH, Li H, Wang J-J (2023) Potentials of mycorrhizal fungi in altering eight biomechanical properties of plant roots. Land Degradation & Development, doi: https://dx.doi.org/10.1002/ldr.4955. 
 
 If you want to use the package, please contact us via xchenat at connect.ust.hk or wangjj at sustech.edu.cn
